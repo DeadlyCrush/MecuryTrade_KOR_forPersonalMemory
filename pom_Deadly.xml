@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\___POE\___Addons\MercuryTradeDeadly\out\artifacts\MercuryTradeDeadly_jar\MercuryTradeDeadly.jar</jar>
+  <outfile>C:\___POE\___Addons\MercuryTradeDeadly\MercuryTradeKOR.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://java.com/ko/download/</downloadUrl>
+  <supportUrl>https://github.com/DeadlyCrush/MercuryTradeKOR/issues</supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\___POE\___Addons\MercuryTrade-master_DeadlyCrush\app-ui\src\main\resources\app\app-icon.ico</icon>
+  <singleInstance>
+    <mutexName>MercuryTradeKOR</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.6.16</fileVersion>
+    <txtFileVersion>1.0.0616a.kor</txtFileVersion>
+    <fileDescription>MercuryTrade KOR by DeadlyCrush</fileDescription>
+    <copyright>KOR by DeadlyCrush ( Original Dev. Exslims )</copyright>
+    <productVersion>1.0.6.16</productVersion>
+    <txtProductVersion>1.0.0616a.kor</txtProductVersion>
+    <productName>MercuryTrade KOR by DeadlyCrush</productName>
+    <companyName></companyName>
+    <internalName>MercuryTradeKOR</internalName>
+    <originalFilename>MercuryTradeKOR.exe</originalFilename>
+    <trademarks>MercuryTrade KOR by DeadlyCrush</trademarks>
+    <language>KOREAN</language>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application.
+프로그램을 시작하는 과정에서 알 수 없는 오류가 발생했습니다.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.
+자바 JRE 오류가 발생했습니다. 설치 또는 업데이트가 필요합니다.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment
+자바 Version 오류가 발생했습니다. 설치 또는 업데이트가 필요합니다.</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.
+프로그램이 이미 실행중입니다.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
