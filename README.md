@@ -1,4 +1,4 @@
-# # MecuryTrade KOR version for personal memory which is dev&shared in Korean POE communities past year.
+# MecuryTrade KOR version for personal memory which is dev&shared in Korean POE communities past year.
 
 ## MercuryTrade KOR Version.
 I managed MercuryTrade KOR and Improving DeadlyTrade 0.1.0.1 over and over. And I prepared overhaul version after Exslim said officially that he will does not maintain.
